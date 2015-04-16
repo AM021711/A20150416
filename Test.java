@@ -6,6 +6,13 @@ public class Test {
 		System.out.println ("AM021711");
 
 		System.out.println ("李昱緯");
+
+		System.out.println ("真理");
+
+		System.out.println ("肌肉");
+
+		System.out.println ("好男人");
+
 		System.out.println ("1");
 
 		System.out.println ("2");
