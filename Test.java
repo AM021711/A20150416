@@ -6,5 +6,10 @@ public class Test {
 		System.out.println ("AM021711");
 
 		System.out.println ("李昱緯");
+		System.out.println ("1");
+
+		System.out.println ("2");
+
+		System.out.println ("3");
 	}
 }
